@@ -19,7 +19,7 @@
 - [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders): Enhances chunk rendering for better visuals.
 - [Debugify](https://modrinth.com/mod/debugify): Fixes vanilla Minecraft bugs for a smoother experience.
 - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps): Reduces resource usage when Minecraft is in the background.
-- [E4MC](https://modrinth.com/mod/e4mc): Extends EnderChest functionality with additional features.
+- [E4MC](https://modrinth.com/mod/e4mc): Opens your world to LAN.
 - [Enhanced Block Entities (EBE)](https://modrinth.com/mod/ebe): Improves the performance of block entities by optimizing their rendering.
 - [EntityCulling](https://modrinth.com/mod/entityculling): Prevents rendering of out-of-sight entities for performance improvements.
 - [Fabric API](https://modrinth.com/mod/fabric-api): Core library required for most Fabric mods.
