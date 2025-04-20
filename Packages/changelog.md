@@ -1,6 +1,23 @@
 # Changelog
 - All changes will be Update here.
 
+
+
+## [v1.1.0-a] - Update for Survival+
+
+- This changelog for Survival+ v1.1.0-a adds three new mods (Bobby, Jade, and ViaFabricPlus) and updates LambDynamicLights for better performance. Future plans include focusing on optimization, addressing performance issues.
+
+### Mod Additions
+- [Bobby](https://modrinth.com/mod/bobby): Allows rendering of distant chunks beyond server render distance for improved exploration.
+- [Jade](https://modrinth.com/mod/jade): A powerful in-game HUD to display block and entity information.
+- [ViaFabricPlus](https://modrinth.com/mod/viafabricplus): Enables compatibility for players using different Minecraft versions.
+
+### Changes
+- **Updated**: [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) updated from `4.1.0+1.21.4` to `4.1.1+1.21.4` for improved performance and stability.
+
+- This changelog for Survival+ v1.1.0-a adds three new mods (Bobby, Jade, and ViaFabricPlus) and updates LambDynamicLights for better performance. Future plans include focusing on optimization, addressing performance issues.
+
+
 ## [v1.0.0-a] - Initial Alpha Release for Survival+
 ### Major Updates
 - **Initial Release**: This version introduces the foundational elements of the Survival+ modpack.
