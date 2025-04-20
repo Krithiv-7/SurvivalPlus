@@ -276,21 +276,6 @@
       "fileSize": 207442
     },
     {
-      "path": "mods/lambdynamiclights-4.1.0+1.21.4.jar",
-      "hashes": {
-        "sha512": "fc57d83949ba7b1b7d83412c787c7a82daa55499bb0e83674ea73e224b0959b1594e24d8b2fee32aa8defe6919ae3af463ffeec73bf8fc8f32568b46052f8e64",
-        "sha1": "37a489d239e3296ed887ffc422ba82f8aa5e3678"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/yBW8D80W/versions/Q9UNnRXZ/lambdynamiclights-4.1.0%2B1.21.4.jar"
-      ],
-      "fileSize": 1023367
-    },
-    {
       "path": "mods/cwb-fabric-3.0.0+mc1.21.3.jar",
       "hashes": {
         "sha1": "101dffee2666b23e51c1b7e810e9455a5c41a0de",
