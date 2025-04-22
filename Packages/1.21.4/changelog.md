@@ -4,7 +4,9 @@
 ## [v1.2.1-b] - Update for Survival+
 ### Mod Additions
 - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap): A lightweight and customizable minimap mod to enhance navigation.
-
+- [Litematica](https://modrinth.com/mod/litematica): A schematic mod for improved building and planning in Minecraft.
+- [MaLiLib](https://modrinth.com/mod/malilib): A library mod required as a dependency for Litematica.
+  
 ### Changes
 - **Configuration Optimizations**:
   - Adjusted **render distance settings** to balance visual quality and performance for smoother gameplay.
