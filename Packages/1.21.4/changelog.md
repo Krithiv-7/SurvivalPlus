@@ -15,7 +15,7 @@
   - Or create an issue on GitHub: [SurvivalPlus Repository](https://github.com/Krithiv-7/SurvivalPlus).
 
 ### Plans Ahead
-- Work on ensuring full compatibility with Minecraft version **1.21.5** soon.
+- Begin work on ensuring full compatibility for a **Minecraft version 1.21.5** modpack soon.
 - Further optimization for better performance across more diverse system configurations.
 - Addressing any reported bugs and enhancing stability.
 - Evaluate and potentially add new mods to enrich the modpack experience.
