@@ -12,7 +12,7 @@
 - **Litematica Mod Warning**: Litematica offers advanced features that may be considered as hacks on public servers. Use it responsibly. If banned or muted, we are not responsible.
 - **Bug Reporting**: There might still be some bugs. If you face any issues:
   - Report them in the [MineVerse Discord](https://discord.gg/uuSYkzahBj).
-  - Or create an issue on GitHub: [SurvivalPlus Repository](https://github.com/Krithiv-7/SurvivalPlus).
+  - Or create an issue on GitHub: [Survival+ Repository](https://github.com/Krithiv-7/SurvivalPlus).
 
 ### Plans Ahead
 - Begin work on ensuring full compatibility for a **Minecraft version 1.21.5** modpack soon.
