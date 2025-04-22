@@ -147,7 +147,7 @@ key_key.replaymod.lighting:key.keyboard.z
 key_key.replaymod.quickmode:key.keyboard.q
 key_key.replaymod.settings:key.keyboard.unknown
 key_key.replaymod.marker:key.keyboard.m
-key_key.replaymod.thumbnail:key.keyboard.n
+key_key.replaymod.thumbnail:key.keyboard.unknown
 key_key.replaymod.playpause:key.keyboard.p
 key_key.replaymod.rollclockwise:key.keyboard.l
 key_key.replaymod.rollcounterclockwise:key.keyboard.j
