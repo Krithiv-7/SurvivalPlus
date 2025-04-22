@@ -1,6 +1,25 @@
 # Changelog
 - All changes will be Update here.
 
+## [v1.2.2-r] - First Release for Survival+
+### Changes
+- **Configuration Optimizations**: Modified numerous mod configurations to ensure the best performance and stability for overall gameplay.
+- **LambDynamicLights**: Updated to the latest version **4.1.2+1.21.4** for improved lighting performance and compatibility.
+
+### Instructions
+- **For Low-End Devices**: This modpack is designed for low-end devices. Adjust render distance and disable shaders for smoother gameplay.
+- **For High-End Devices**: Tweak shader settings and configure Bobby mod according to your preferences for enhanced visuals.
+- **Litematica Mod Warning**: Litematica offers advanced features that may be considered as hacks on public servers. Use it responsibly. If banned or muted, we are not responsible.
+- **Bug Reporting**: There might still be some bugs. If you face any issues:
+  - Report them in the [MineVerse Discord](https://discord.gg/uuSYkzahBj).
+  - Or create an issue on GitHub: [SurvivalPlus Repository](https://github.com/Krithiv-7/SurvivalPlus).
+
+### Plans Ahead
+- Work on ensuring full compatibility with Minecraft version **1.21.5** soon.
+- Further optimization for better performance across more diverse system configurations.
+- Addressing any reported bugs and enhancing stability.
+- Evaluate and potentially add new mods to enrich the modpack experience.
+
 ## [v1.2.1-b] - Update for Survival+
 ### Mod Additions
 - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap): A lightweight and customizable minimap mod to enhance navigation.
