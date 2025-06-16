@@ -1,5 +1,59 @@
 # Changelog
 - All changes will be Update here.
+---
+
+## [v1.3.3-r+1.21.4] - Mod Cleanup & Versioning Update
+
+### Changes
+
+- **Mod Removals**  
+  - ❌ **MaLiLib**: Removed due to high memory usage and limited benefit for the modpack's purpose.  
+  - ❌ **Litematica**: Removed for the same reason as MaLiLib — excessive memory consumption that contradicts the lightweight survival-focused intent of the modpack.
+
+- **Mod Updates**  
+  - 🔼 **BSL Shaders** updated to **v10.0**  
+  - 🔼 **Dynamic FPS** updated to **v3.9.4**  
+  - 🔼 **Fabric API** updated to **v0.119.3**  
+  - 🔼 **Fabric Language Kotlin** updated to **v1.13.3+kotlin.2.1.21**  
+  - 🔼 **Fabrishot** updated to **v1.14.4**  
+  - 🔼 **LambDynamicLights** updated to **v4.1.3**  
+  - 🔼 **PolyTone** updated to **v3.3.20**  
+  - 🔼 **ViaFabricPlus** updated to **v4.0.5-BACKPORT**  
+  - 🔼 **Xaero's Minimap** updated to **v25.2.6**  
+  - 🔼 **Xaero's World Map** updated to **v1.39.9**
+
+---
+
+### Versioning Scheme Overhaul
+
+The versioning format has been revised from a single-line scheme (`v0.0.0-x`) to a dual-format scheme (`v0.0.0-x+0.0.0`) to better align with Minecraft's rapid and incompatible version changes.
+
+#### 📌 What Changed?
+- **Old Scheme**: `v0.0.0-x`  
+- **New Scheme**: `v0.0.0-x+MinecraftVersion`  
+  - Example: `v1.3.3-r+1.21.4`
+
+#### 🔍 Why This Change?
+Minecraft’s 1.21.4 release brought significant backend changes, making previous mod compatibility assumptions unreliable. Tying the modpack version directly to the Minecraft version ensures clarity, better maintenance, and user awareness about version-specific support.
+
+#### 🧩 Versioning Breakdown
+- `vX.0.0-x`: Major Update  
+- `v0.X.0-x`: Mod Update  
+- `v0.0.X-x`: Patch Update  
+
+**Build Types**:
+- `-a`: Alpha Build  
+- `-b`: Beta Build  
+- `-r`: Release Build  
+
+**Minecraft Version Tag**:
+- `+1.21.4`: Indicates compatibility with Minecraft 1.21.4  
+
+#### 🛠️ How This Helps
+- Ensures users instantly know what Minecraft version the modpack targets  
+- Avoids confusion caused by similar modpack versions across incompatible Minecraft builds  
+- Improves update tracking, compatibility checks, and version rollback/forward planning
+
 
 ## [v1.2.2-r] - First Release for Survival+
 ### Changes
