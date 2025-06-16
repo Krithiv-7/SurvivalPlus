@@ -23,7 +23,7 @@ Survival+ is more than just a modpack—it's an experience. We've combined:
 
 ## 🌐 **Join the Community**
 Connect with other adventurers, share ideas, and get support:
-- Join our **[Discord Community](https://discord.gg/uuSYkzahBj)** for discussions and updates.
+- Join our **[Discord Community](https://discord.krithiv.dev)** for discussions and updates.
 - Report bugs and suggest improvements on our **[GitHub Issues Page](https://github.com/Krithiv-7/SurvivalPlus/issues)**.
 
 ---
