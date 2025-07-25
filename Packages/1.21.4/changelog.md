@@ -2,6 +2,13 @@
 - All changes will be Update here.
 ---
 
+## [v1.4.3-r+1.21.4] - Mod Cleanup & Versioning Update
+
+### Changes
+
+- **Total Updates** : Updated most of the Mods, Resource and Sharder Packs to Latest
+- **Minor Patch Changes** : A minor config Patch, for better stability. 
+
 ## [v1.3.3-r+1.21.4] - Mod Cleanup & Versioning Update
 
 ### Changes

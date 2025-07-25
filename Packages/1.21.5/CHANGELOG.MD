@@ -2,6 +2,12 @@
 - All changes will be Update here.
 ---
 
+# [v1.1.0-r+1.21.5] - First Release for Survival+ 1.21.5
+### Updates
+- **First Release**: First Realease for 1.21.5, leaving alpha to release.
+- **Update**: Updated all the Mods and Resource to Latest.
+
+
 ## [v1.0.0-a+1.21.5] - Initial Alpha Release for Survival+
 ### Major Updates
 - **Initial Release**: This version introduces the foundational elements of the Survival+ modpack for version 1.21.5.
@@ -62,3 +68,4 @@
 
 ### Shaders
 - [BSL Shaders](https://modrinth.com/shader/bsl-shaders): Adds beautiful lighting, shadows, and visual effects to Minecraft.
+
